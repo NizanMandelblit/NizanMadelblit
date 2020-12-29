@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Nizan Mandelblit
-#### Embedded Software Student
+#### Embedded Software Student   ![Profile views](https://gpvc.arturio.dev/NizanMandelblit)  
 third year coumputer science student at Bar-Ilan university
 software developer student at Cellium
 
@@ -13,9 +13,6 @@ Skills: C, C++,C# ,Java, Kotlin, Python, Html,JavaScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizanMandelblit)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/NizanMandelblit)  
-
-![Profile views](https://gpvc.arturio.dev/NizanMandelblit)  
 
 
 
