@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Nizan Mandelblit
 #### Embedded Software Student
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+third year coumputer science student at Bar-Ilan university
+software developer student at Cellium
 
 Skills: C, C++,C# ,Java, Kotlin, Python, Html,JavaScript
 
