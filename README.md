@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/NizanMandelblit)  
 third year coumputer science student at Bar-Ilan university
 
-software developer student at <a href="https://www.cellium.net/"> <img width="35" height="35" src="https://i.ibb.co/jZ7N1HV/celliumlogo.jpg">Cellium</a>
+embedded software developer at <a href="https://www.cellium.net/"> <img width="35" height="35" src="https://i.ibb.co/jZ7N1HV/celliumlogo.jpg">Cellium</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
