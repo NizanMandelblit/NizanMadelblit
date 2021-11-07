@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Nizan Mandelblit
-### Embedded Software Student 
+### Embedded Software Developer 
 ![Profile views](https://gpvc.arturio.dev/NizanMandelblit)  
 third year coumputer science student at Bar-Ilan university
 
